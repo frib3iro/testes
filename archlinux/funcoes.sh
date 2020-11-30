@@ -188,8 +188,3 @@ UUID=6A5615215614F015 /mnt ntfs defaults 0 1
 EOF
 }
 
-reiniciar(){
-    umount -a
-    sleep 2                                                                                             
-    reboot
-}
